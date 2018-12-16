@@ -6,10 +6,10 @@ Easy to setup and bloat-free [Portable Apps](https://portableapps.com/) version 
 
 ## How-to
 
-1. Download [latest JDownloaderPortable release](releases/latest)
+1. Download [latest JDownloaderPortable release](https://github.com/FoxP/JDownloaderPortable/releases/latest)
 2. Extract `JDownloaderPortable.zip` to your [PortableApps Platform](https://portableapps.com/download) directory
 3. Install [jPortable](https://portableapps.com/apps/utilities/java_portable) or [jPortable 64](https://portableapps.com/apps/utilities/java_portable_64) from your PortableApps Platform
-4. You should have the following hierarchical tree structure :
+4. You should now have a similar hierarchical tree structure :
 ```
     D:\
     └── PortableApps
